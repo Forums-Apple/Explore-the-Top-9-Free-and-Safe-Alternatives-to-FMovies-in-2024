@@ -7,7 +7,7 @@ Here’s an article outline titled “9 Best 123Movies Alternatives: Free & Safe
 # Introduction
 Brief overview of FMovies and its popularity as a free streaming service. Mention the legal issues surrounding FMovies and the need for safe alternatives.
 
-# 1. [Popcornflix](https://popcornflix.rest/)
+# 1. [Popcornflix](https://en.wikipedia.org/wiki/Popcornflix)
 ![image](https://github.com/user-attachments/assets/ad08c045-b79e-4f6c-9613-d0dbd14577a7)
 
 Description: A free streaming service with a vast library of movies and TV shows. Features: No sign-up required, user-friendly interface, and categories for easy navigation.
